@@ -4,10 +4,9 @@ This is a mod for D2R. I am creating a mod that I think provides a few changes t
 List of Current modifications:
 
 1. Magic Find Potion: "+150 Magic Find For 30 Seconds"
+2. Rune Drop Rate Increase 25%
 
 List of Planned changes to come :
-
-Rune Drop Rate Increase
 
 Stackable Gems/Runes
 
