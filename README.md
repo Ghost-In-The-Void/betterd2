@@ -28,7 +28,7 @@ How to install:
 
 Currently BetterD2 is in a unpacked state for ease of editting but installtion is still easy follow these steps:
 1. Download BetterD2
-2. Place the folder BetterD2 in your "mods" folder in Diablo 2 Resurrected install path.
+2. Place the contants in a folder named "BetterD2" (without the qoutes) in your "mods" folder in Diablo 2 Resurrected install path.
 3. Create a shortcut to your D2R.exe located in your D2R install folder
 4. Right click the shortcut you created and select properties
 5. The line labled Target we need to add two commands to
