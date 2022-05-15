@@ -4,13 +4,19 @@ This is a mod for D2R. I am creating a mod that I think provides a few changes t
 List of Current modifications:
 
 1. Magic Find Potion: "+150 Magic Find For 30 Seconds"
-2. Rune Drop Rate Increase 25%
+2. Rune Drop Rate Increase 25% and reduced rarity
+3. Made several different items stackable
+    runes stackable to 10
+    gems stackable to 10
+    potions stackable to 5 except thawing/antidote/stamina are at 10
+    The 3 keys stackable to 10
+    Essence stackable to 20
+4. Made all "ladder only" runewords available
 
 List of Planned changes to come :
 
-Stackable Gems/Runes
 
-Show Item Lvl
+Show Item Lvl - Not possible with out breaking EULA, will not happen
 
 Add Runewords that are not enabled
 
